@@ -1,4 +1,4 @@
-# Language #---->[English](http://qwqw)//[Chinese](http://qwqw)
+# Language---->[English](https://github.com/15637476265/Using_XmlListModel/blob/HEAD/English.md)//[Chinese](https://github.com/15637476265/Using_XmlListModel/edit/master/README.md) #
 # Describe #
 ## 1.Using C++ model and QmlXmlListModel ##
 
